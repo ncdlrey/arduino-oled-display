@@ -1,0 +1,9 @@
+#ifndef __STANDINGJUMPINGSHADOW_H
+#define __STANDINGJUMPINGSHADOW_H
+
+#define STANDINGJUMPINGSHADOW_WIDTH 128
+#define STANDINGJUMPINGSHADOW_HEIGHT 64
+
+extern unsigned char standingJumpingShadow_bits[];
+
+#endif /* __STANDINGJUMPINGSHADOW_H */
