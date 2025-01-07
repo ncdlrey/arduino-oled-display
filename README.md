@@ -2,7 +2,7 @@
 Code and instructions to build a customizable OLED display animation with Arduino Nano. 
 Perfect as a creative project, gift, or exciting decoration. 
 
-NOTE: Some code taken from Tigris Li (https://github.com/tigrisli). This new code makes use of GIMP to convert animations into bitmaps instead of using Processing to make X Bitmap.
+NOTE: Some code taken from Tigris Li (https://github.com/tigrisli). This new code makes use of GIMP to convert animations into bitmaps instead of using Processing to make X Bitmaps.
 
 # Materials Used
 - 0.96" OLED Module (I²C, White) - $9.99 CAD Canada Robotix
