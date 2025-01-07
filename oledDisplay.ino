@@ -1,7 +1,7 @@
 // ORIGINAL Author : Tigris Li <hello@tigris.li>
 // Date   : 5th December 2021
 
-// NEW Author : Nicole Delos Reyes
+// EDITS MADE BY : Nicole Delos Reyes
 // Date: 22nd August 2023
 
 #include<Arduino.h>
